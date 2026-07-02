@@ -1,0 +1,28 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Environment / secrets
+.env
+*.local
+
+# Claude Code local config (never tracked)
+.claude/
+
+# OS
+.DS_Store
+
+# Scratch
+temp.txt
+
+# Data / output artifacts
+*.png
+*.html
+data/

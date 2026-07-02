@@ -1,0 +1,7 @@
+# Twelve Data SDK with all requested extras.
+# Note: the websocket extra is named "websocket" (provides websocket-client),
+# NOT "websocket-client".
+twelvedata[pandas,matplotlib,plotly,websocket]==1.4.0
+
+# MCP server (Claude Desktop integration) — see td_mcp_server.py
+mcp[cli]>=1.28.0
