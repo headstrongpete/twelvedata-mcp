@@ -95,3 +95,7 @@ mcp dev td_mcp_server.py
   `get_dividends`) depend on your Twelve Data plan; on the free tier they may
   return an "not available" error, which the tool surfaces cleanly.
 - Prices are point-in-time market data, not investment advice.
+
+## License
+
+[MIT](LICENSE) © Peter Squires
